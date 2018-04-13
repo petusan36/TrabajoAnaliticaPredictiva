@@ -9,10 +9,10 @@ No existoso:
 Modelo: Regresión lineal 100% certero
 
 Exitoso: 
-Modelos:
-  Regresión lineal  76% entrenamiento aprox - 81% prueba aprox
-  Knn               75% entrenamiento aprox - 80% prueba aprox
-  Decision Tree     77% entrenamiento aprox - 82% prueba aprox
-  SVM               76% entrenamiento aprox - 80% prueba aprox
+Modelos: 
+  Regresión lineal  76% entrenamiento aprox - 81% prueba aprox 
+  Knn               75% entrenamiento aprox - 80% prueba aprox 
+  Decision Tree     77% entrenamiento aprox - 82% prueba aprox 
+  SVM               76% entrenamiento aprox - 80% prueba aprox 
 
 Se hacen las matrices de confusión y se comparan los resultados obtenidos en el modelamiento.
